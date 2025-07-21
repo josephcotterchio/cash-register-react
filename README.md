@@ -1,1 +1,1 @@
-Simple React cash register app. Further notes to come.
+Simple React cash register app. Intended to meet the requirements of an assignment.
