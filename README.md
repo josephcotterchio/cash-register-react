@@ -1,1 +1,1 @@
-Simple React cash register app. Intended to meet the requirements of an assignment.
+Simple React cash register app. Intended to meet the requirements of an assignment. This is the submitted version as of July 20th. Further changes to come. Uploaded to GitHub due to restrictions on the laptop I used.
